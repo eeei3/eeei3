@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # My personal projects are hosted on git.sourceobby.com, unless I have a specific reason to host them on GitHub.
-If you are looking to checkout stuff that I have made, you should probably first check git.sourceobby.com
+If you are looking to check out stuff that I have made, you should probably first check git.sourceobby.com
 
 <!--
 **eeei3/eeei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
